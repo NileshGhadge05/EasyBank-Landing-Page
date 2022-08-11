@@ -6,5 +6,7 @@
     "markdown",
     "latex",
     "plaintext"
-  ]
+  ],
+  "workbench.settings.editor": "json",
+  "workbench.settings.useSplitJSON": true
 }
